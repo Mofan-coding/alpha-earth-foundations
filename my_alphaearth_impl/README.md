@@ -1,8 +1,8 @@
 # My AlphaEarth-Style Implementation (from scratch)
 
-这是一个**我自己的简化实现版本**，参考了 AlphaEarth Foundations 的核心思路，但代码结构和训练流程按教学和可复现优先重新组织。
+这是一个**简化实现版本**，参考了 AlphaEarth Foundations 的核心思路，但代码结构和训练流程按教学和可复现优先重新组织。
 
-> 目标：给你一个可以直接读懂、直接跑起来、直接改造到你自己数据集的起点。
+
 
 English version: `README_EN.md`
 
