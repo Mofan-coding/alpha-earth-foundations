@@ -68,3 +68,17 @@ python -m alphaearth.run_train_olmoearth \
       url={https://arxiv.org/abs/2507.22291}, 
 }
 ```
+
+## Personal Re-implementation (Step-by-step)
+
+I added a clean, educational re-implementation under `my_alphaearth_impl/` with:
+- readable architecture code,
+- step-by-step training script,
+- and practical instructions in Chinese.
+- and an English guide for international readers.
+
+Run it with:
+
+```bash
+python my_alphaearth_impl/train_demo.py --epochs 3 --batch_size 8 --time_steps 6 --image_size 64
+```
